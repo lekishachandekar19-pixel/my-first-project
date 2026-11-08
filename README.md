@@ -1,2 +1,8 @@
-# my-first-project
-My first GitHub repository – learning Git and GitHub.
+# My First GitHub Project
+
+Hello! 👋
+
+I am learning Git and GitHub.
+I am exploring Computer Science and Artificial Intelligence.
+
+This is my first GitHub project!
